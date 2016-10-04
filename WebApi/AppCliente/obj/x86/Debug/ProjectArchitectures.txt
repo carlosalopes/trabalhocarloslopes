@@ -1,0 +1,1 @@
+E:\Projetos\TrabalhoPos\WebApi\AppCliente\AppCliente.csproj;x86
